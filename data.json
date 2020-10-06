@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "title" : "Autumn leaves",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2020/10/03/17/40/autumn-5624139_1280.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Alpine mountains",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2020/10/03/10/56/mountains-5623208_1280.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Mountain climbing adventure",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2016/11/08/05/20/adventure-1807524_1280.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Northen light Aurora",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2016/02/07/19/48/aurora-1185464_1280.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "Polar Bear",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2013/10/16/14/04/polar-bear-196318_1280.jpg"
+    }
+]
