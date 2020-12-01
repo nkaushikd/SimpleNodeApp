@@ -1,0 +1,68 @@
+[
+    {
+        "id" : 1,
+        "title" : "Autumn leaves",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2020/10/03/17/40/autumn-5624139_1280.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Alpine mountains",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2020/10/03/10/56/mountains-5623208_1280.jpg"
+    },
+    {
+        "id": 0,
+        "horizontal": true,
+        "data" : [
+            {
+                "id" : 1,
+                "title" : "Polar light",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+                "image" : "https://cdn.pixabay.com/photo/2020/09/24/17/59/aurora-5599375_1280.jpg"
+            },
+            {
+                "id" : 2,
+                "title" : "Horse",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+                "image" : "https://cdn.pixabay.com/photo/2020/11/24/12/34/horse-5772416_1280.jpg"
+            },
+            {
+                "id" : 3,
+                "title" : "Berries",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+                "image" : "https://cdn.pixabay.com/photo/2020/11/24/12/23/flowering-dogwood-5772385_1280.jpg"
+            },
+            {
+                "id" : 4,
+                "title" : "Sunset",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+                "image" : "https://cdn.pixabay.com/photo/2020/04/04/03/10/landscape-5000655_1280.jpg"
+            },
+            {
+                "id" : 5,
+                "title" : "Flowers",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+                "image" : "https://cdn.pixabay.com/photo/2020/06/29/08/06/helichrysum-italicum-5351797_1280.jpg"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "title" : "Mountain climbing adventure",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2016/11/08/05/20/adventure-1807524_1280.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Northen light Aurora",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2016/02/07/19/48/aurora-1185464_1280.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "Polar Bear",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",
+        "image" : "https://cdn.pixabay.com/photo/2013/10/16/14/04/polar-bear-196318_1280.jpg"
+    }
+]
